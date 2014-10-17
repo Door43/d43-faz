@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[faz:home|Door43 (faz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-faz|d43-faz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-faz/archive/master.zip|d43-faz.zip]]
+
+**Recent Changes**
+{{changes>ns = faz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/faz|Ethnologue data]]
+
